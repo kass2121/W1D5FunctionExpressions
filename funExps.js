@@ -6,7 +6,8 @@
 module.exports = {
     double,
     times100,
-    myMap
+    myMap,
+    triples
 }; //add all of your function names here that you need for the node mocha tests
 
 // 1. Write a function, double, that takes a number and returns 2 times the number.
