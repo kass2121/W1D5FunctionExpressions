@@ -61,7 +61,7 @@ console.log(myMap(testArray, times100));
  * @param {number} number input number
  * @returns {object} return the array triple of each element 
  */
-     function triples(number){
+    let triples = function(number){
          return number*3;
      }
 
